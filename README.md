@@ -49,7 +49,7 @@
 <div align="center">
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ArifurRahmanUAP&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=7C3AED&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
+<br/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArifurRahmanUAP&theme=github_dark" />
 
 </div>
