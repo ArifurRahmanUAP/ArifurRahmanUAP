@@ -48,11 +48,9 @@
 
 <div align="center">
 
-<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArifurRahmanUAP&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" /> -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArifurRahmanUAP&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ArifurRahmanUAP&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=7C3AED&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArifurRahmanUAP&theme=github_dark" />
 
 </div>
 
@@ -60,9 +58,9 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifurRahmanUAP&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArifurRahmanUAP&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArifurRahmanUAP&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArifurRahmanUAP&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArifurRahmanUAP&theme=github_dark&utcOffset=6" />
 
 </div>
 
@@ -73,8 +71,6 @@
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArifurRahmanUAP&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=7C3AED&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
 
 </div>
-
----
 
 ## 👨‍💻 About Me
 
