@@ -31,17 +31,24 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArifurRahmanUAP&hide_border=true&stroke=00F2FE&background=0D1117&ring=00F2FE&fire=FFD700&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00F2FE&sideLabels=00F2FE&dates=6e7681" width="49%" />
 </p>
 
-<!-- Contribution Graph - Dark themed dynamic chart -->
+<!-- Contribution metrics cards -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArifurRahmanUAP&bg_color=0D1117&color=00F2FE&line=FFD700&point=FFFFFF&area=true&hide_border=true&custom_title=✨%20Contribution%20Graph%20✨" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArifurRahmanUAP&theme=dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArifurRahmanUAP&theme=dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArifurRahmanUAP&theme=dark" width="32%" />
 </p>
 
-<!-- Contribution metrics row -->
+<!-- Contribution Graph - Dark themed dynamic chart -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArifurRahmanUAP&bg_color=0D1117&color=00F2FE&line=FFD700&point=FFFFFF&area=true&hide_border=true&custom_title=✨%20Contribution%20Graph%20✨&radius=8" width="100%" />
+</p>
+
+<!-- Contribution details row -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArifurRahmanUAP&theme=dark" width="100%" />
 </p>
 
-<!-- Dynamic contribution snake (optional but beautiful) -->
+<!-- Dynamic contribution snake -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArifurRahmanUAP/ArifurRahmanUAP/output/github-contribution-grid-snake-dark.svg" />
@@ -58,8 +65,15 @@
   <a href="https://play.google.com/store/apps/details?id=com.arif.dislam">
     <img src="https://img.shields.io/badge/Daily%20Islam-📖-00F2FE?style=for-the-badge&logo=googleplay&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.app.munajat_e_maqbool">
     <img src="https://img.shields.io/badge/Munajat%20E%20Maqbool-🤲-FFD700?style=for-the-badge&logo=googleplay&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://arifurrahmanuap.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -74,9 +88,15 @@ class MobileDeveloper:
         self.role = "Mobile App Developer"
         self.company = "Bdjobs.com Ltd."
         self.location = "Dhaka, Bangladesh"
+        self.email = "uap.arifur@gmail.com"
+        self.mobile = ["+8801931178591", "01521526371"]
+        self.discord = "arif.rahman.sagar"
         self.languages = ["Java", "Dart", "Kotlin"]
         self.frameworks = ["Android", "Flutter", "Ionic", "Spring Boot"]
         self.portfolio = "https://arifurrahmanuap.github.io/Portfolio/"
     
     def daily_drive(self):
         return "Building impactful mobile experiences 🚀"
+    
+    def current_focus(self):
+        return "Creating seamless cross-platform apps with Flutter"
