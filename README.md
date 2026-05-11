@@ -1,50 +1,93 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Md.%20Arifur%20Rahman&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Android%20%7C%20Flutter%20%7C%20Kotlin%20%7C%20Java&descAlignY=58&descSize=18" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ArifurRahmanUAP/ArifurRahmanUAP/blob/main/banner-dark.png">
+    <img src="https://github.com/ArifurRahmanUAP/ArifurRahmanUAP/blob/main/banner.png" alt="Md. Arifur Rahman - Banner" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+  </picture>
 </div>
+
+<h1 align="center">
+  Hi there 👋, I'm <span style="color:#00ff9d;">Md. Arifur Rahman</span>
+</h1>
+
+<p align="center">
+  <a href="https://github.com/ArifurRahmanUAP"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/arifur-rahman-uap/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/arif.sagar.rahman/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="mailto:uap.arifur@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <strong>Mobile App Developer</strong> • Dhaka, Bangladesh • Crafting elegant digital experiences
+</p>
+
+---
+
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Flutter+%26+Android+Specialist;Building+apps+that+matter;Passionate+about+clean+code" alt="Typing SVG" />
+</div>
+
+---
+
+### 🔥 About Me
+- **Currently working at** — **Bdjobs.com Ltd.** as Mobile App Developer
+- **Focus** — Building beautiful, high-performance, user-centric mobile applications
+- **Location** — Dhaka, Bangladesh
+
+### 📱 Featured Apps on Play Store
+- **[Daily Islam](https://play.google.com/store/apps/details?id=com.arif.dislam)** — Your daily Islamic companion
+- **[Munajat E Maqbool](https://play.google.com/store/apps/details?id=com.app.munajat_e_maqbool)** — Elegant collection of Munajat & Duas
+
+**[🌐 View Full Portfolio](https://arifurrahmanuap.github.io/Portfolio/)**
+
+---
+
+### 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Md.+Arifur+Rahman;Mobile+App+Developer+at+Bdjobs.com+Ltd.;Android+%7C+Flutter+%7C+Ionic+%7C+Spring+Boot;I+build+clean%2C+modern+and+scalable+mobile+apps" alt="Typing SVG" />
+<!-- Main Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=ArifurRahmanUAP&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=issues" height="180" alt="GitHub Stats"/>
 
-</div>
+<!-- Streak Stats - Very Stylish -->
+<img src="https://streak-stats.demolab.com?user=ArifurRahmanUAP&theme=tokyonight&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&ring=00ff9d&fire=ff79c6&currStreakLabel=00ff9d" height="180" alt="GitHub Streak"/>
 
-<br/>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://arifurrahmanuap.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArifurRahmanUAP)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifur-rahman-uap/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arif.sagar.rahman/)
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifurRahmanUAP&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" height="180" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+### 🛠️ Technologies & Skills
 
-<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/212284100-3f0d2f97-7c59-4f27-9a7c-8e91fdbfa1b6.gif" />
+<div align="center">
 
-I am **Md. Arifur Rahman**, a passionate **Mobile App Developer** from **Dhaka, Bangladesh**.
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" alt="Android"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
 
-I currently work at **Bdjobs.com Ltd.**, where I focus on building smooth, scalable, user-friendly, and production-ready mobile applications.
+</div>
 
-I enjoy solving real-world problems through mobile technology and love working with **Android**, **Flutter**, **Kotlin**, **Java**, and modern app development tools.
+---
 
-<br/>
+### 📬 Let's Connect
+- **WhatsApp / Mobile**: +880 1931-178591 | 01521-526371
+- **Discord**: `arif.rahman.sagar`
+- **Email**: uap.arifur@gmail.com
 
-```yaml
-name: Md. Arifur Rahman
-role: Mobile App Developer
-company: Bdjobs.com Ltd.
-location: Dhaka, Bangladesh
-email: uap.arifur@gmail.com
-portfolio: arifurrahmanuap.github.io/Portfolio
-focus:
-  - Android App Development
-  - Flutter App Development
-  - Mobile UI/UX
-  - API Integration
-  - Scalable App Architecture
+---
+
+<div align="center">
+  <i>"Turning ideas into elegant, functional mobile experiences with passion and precision."</i>
+</div>
+
+---
+
+<p align="center">
+  Made with ❤️ in Bangladesh • Dynamically updated
+</p>
