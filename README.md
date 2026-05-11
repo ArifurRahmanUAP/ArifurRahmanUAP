@@ -8,6 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=560&height=65&lines=Building+apps+people+actually+love+📱;Flutter+%7C+Android+%7C+Kotlin+%7C+Java+%7C+Spring+Boot;Open+to+collaborate+→+let's+build+something+great!)](https://git.io/typing-svg)
 
+<!-- Profile Views & Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=ArifurRahmanUAP&style=for-the-badge&color=0d1117&labelColor=1a2332&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/ArifurRahmanUAP?style=for-the-badge&color=0d1117&labelColor=1a2332&logo=github&logoColor=58a6ff)](https://github.com/ArifurRahmanUAP)
 
@@ -29,7 +30,7 @@ data class Developer(
     val contact    : String       = "uap.arifur@gmail.com",
     val openTo     : String       = "Collaborations, Open Source, Freelance"
 )
-` ` `
+```
 
 ---
 
@@ -112,13 +113,13 @@ data class Developer(
 
 ## 💼 Experience
 
-` ` `
+```
 🔵  Mobile App Developer          │  Bdjobs.com Ltd.              │  Current
     Flutter · Android · Kotlin    │  Dhaka, Bangladesh            │
                                   │                               │
 🟢  Flutter / Android Developer   │  Personal & Freelance         │  Ongoing
     Published 2 Play Store apps   │  Daily Islam · Munajat        │
-` ` `
+```
 
 ---
 
@@ -171,15 +172,3 @@ data class Developer(
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,60:1a3a6e,100:080c12&height=110&section=footer&fontSize=14&fontColor=484f58&text=//+always+open+to+interesting+mobile+projects&animation=fadeIn" width="100%"/>
 </div>
-```
-
----
-
-**How to use:**
-1. Create a repo at `github.com/new` named exactly `ArifurRahmanUAP`
-2. Make it **Public** and tick "Add a README file"
-3. Click the pencil edit icon on the README
-4. Select all and paste this entire code
-5. Click **Commit changes** — done!
-
-> Note: The backtick code blocks above show `` ` ` ` `` with spaces to avoid rendering issues here. In your actual file use three backticks ` ``` ` with no spaces.
