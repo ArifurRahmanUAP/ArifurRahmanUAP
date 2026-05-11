@@ -68,14 +68,6 @@
 
 <div align="center">
 
-![3D Contrib](profile-3d-contrib/profile-night-green.svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArifurRahmanUAP&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=7C3AED&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
 
 </div>
