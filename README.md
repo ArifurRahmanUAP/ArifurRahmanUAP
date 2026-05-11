@@ -217,13 +217,13 @@ Android application published on Google Play.
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArifurRahmanUAP&theme=github_dark" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArifurRahmanUAP&theme=github_dark" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArifurRahmanUAP&theme=github_dark&utcOffset=6" />
 
-</div>
+</div> -->
 
 ---
 
