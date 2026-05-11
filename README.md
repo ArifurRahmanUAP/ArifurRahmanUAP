@@ -48,7 +48,9 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArifurRahmanUAP&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArifurRahmanUAP&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" /> -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArifurRahmanUAP&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ArifurRahmanUAP&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=7C3AED&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
