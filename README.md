@@ -65,7 +65,7 @@
 </div>
 
 <br/>
-## 📈 Profile Summary
+📈 Profile Summary
 
 <div align="center">
 
@@ -191,26 +191,6 @@ Android application published on Google Play.
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 🌐 Portfolio
-
-<div align="center">
-
-<img width="80%" src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:0D1117,50:1F6FEB,100:7C3AED&text=Explore%20My%20Portfolio&fontSize=30&fontColor=FFFFFF&animation=fadeIn" />
-
-<br/><br/>
-
-<a href="https://arifurrahmanuap.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Visit_My_Portfolio-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**Portfolio:** [arifurrahmanuap.github.io/Portfolio](https://arifurrahmanuap.github.io/Portfolio/)
 
 </div>
 
