@@ -215,16 +215,6 @@ Android application published on Google Play.
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ArifurRahmanUAP/ArifurRahmanUAP/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
 ## 🎯 Professional Focus
 
 <div align="center">
