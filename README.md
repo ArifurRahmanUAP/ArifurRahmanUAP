@@ -1,35 +1,34 @@
+<!-- Header Banner -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080c12,40:0d1f3c,80:1a3a6e,100:2563eb&height=220&section=header&text=Md.%20Arifur%20Rahman&fontSize=42&fontColor=e6edf3&fontAlignY=40&desc=📱%20Mobile%20App%20Developer%20%7C%20Flutter%20%26%20Android%20%7C%20Dhaka%2C%20Bangladesh%20🇧🇩&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%"/>
+</div>
+
+<!-- Typing Animation -->
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:388bfd,100:58a6ff&height=200&section=header&text=Md.%20Arifur%20Rahman&fontSize=40&fontColor=e6edf3&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Flutter%20%26%20Android&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=560&height=65&lines=Building+apps+people+actually+love+📱;Flutter+%7C+Android+%7C+Kotlin+%7C+Java+%7C+Spring+Boot;Open+to+collaborate+→+let's+build+something+great!)](https://git.io/typing-svg)
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Building+apps+people+actually+use+%F0%9F%9A%80;Flutter+%7C+Android+%7C+Kotlin+%7C+Java;Open+to+collaborate+%E2%86%92+let%27s+build!)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Social badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=58a6ff)](https://arifurrahmanuap.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/arifur-rahman-uap/)
-[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/arif.sagar.rahman/)
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/arif.rahman.sagar)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:uap.arifur@gmail.com)
+<!-- Profile Views & Followers -->
+![Profile Views](https://komarev.com/ghpvc/?username=ArifurRahmanUAP&style=for-the-badge&color=0d1117&labelColor=1a2332&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/ArifurRahmanUAP?style=for-the-badge&color=0d1117&labelColor=1a2332&logo=github&logoColor=58a6ff)](https://github.com/ArifurRahmanUAP)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 whoami
 
 ```kotlin
 data class Developer(
-    val name: String      = "Md. Arifur Rahman",
-    val role: String      = "Mobile App Developer",
-    val company: String   = "Bdjobs.com Ltd.",
-    val location: String  = "Dhaka, Bangladesh 🇧🇩",
-    val languages: List<String> = listOf("Dart", "Kotlin", "Java"),
-    val frameworks: List<String> = listOf("Flutter", "Android", "Ionic", "Spring Boot"),
-    val openTo: String    = "Collaborations on Android / Flutter / Ionic projects"
+    val name       : String       = "Md. Arifur Rahman",
+    val role       : String       = "Mobile App Developer",
+    val company    : String       = "Bdjobs.com Ltd.",
+    val location   : String       = "Dhaka, Bangladesh 🇧🇩",
+    val languages  : List<String> = listOf("Dart", "Kotlin", "Java"),
+    val frameworks : List<String> = listOf("Flutter", "Android", "Ionic", "Spring Boot"),
+    val tools      : List<String> = listOf("Firebase", "Git", "Figma", "REST APIs"),
+    val contact    : String       = "uap.arifur@gmail.com",
+    val openTo     : String       = "Collaborations, Open Source, Freelance"
 )
 ```
 
@@ -37,63 +36,40 @@ data class Developer(
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
+
+**◆ Languages**
 
 ![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=54C5F8)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=A97BFF)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=F89820)
 
-**Frameworks & Platforms**
+**◆ Frameworks & Platforms**
 
 ![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=54C5F8)
 ![Android](https://img.shields.io/badge/Android-0d1117?style=for-the-badge&logo=android&logoColor=3DDC84)
 ![Ionic](https://img.shields.io/badge/Ionic-0d1117?style=for-the-badge&logo=ionic&logoColor=3880FF)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
 
-**Tools & Services**
+**◆ Tools & Services**
 
 ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-0d1117?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![REST API](https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge&logo=fastapi&logoColor=58a6ff)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
----
-
-## 📱 Published Apps
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**🕌 Daily Islam**
-
-[![Daily Islam](https://img.shields.io/badge/Play_Store-0d1117?style=for-the-badge&logo=google-play&logoColor=3DDC84)](https://play.google.com/store/apps/details?id=com.arif.dislam)
-
-A comprehensive Islamic companion app for daily prayers, Quran reading, and more.
-
-</td>
-<td align="center" width="50%">
-
-**📖 Munajat E Maqbool**
-
-[![Munajat E Maqbool](https://img.shields.io/badge/Play_Store-0d1117?style=for-the-badge&logo=google-play&logoColor=3DDC84)](https://play.google.com/store/apps/details?id=com.app.munajat_e_maqbool)
-
-Islamic dua and supplication app for daily spiritual practice.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArifurRahmanUAP&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifurRahmanUAP&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="165"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=ArifurRahmanUAP&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=2563eb" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifurRahmanUAP&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="180"/>
 </div>
 
 ---
@@ -101,9 +77,7 @@ Islamic dua and supplication app for daily spiritual practice.
 ## 🔥 Streak & Contributions
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ArifurRahmanUAP&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=21262d" alt="GitHub Streak"/>
-
+<img src="https://streak-stats.demolab.com?user=ArifurRahmanUAP&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2563eb&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=1a2332&currStreakNum=e6edf3&sideNums=e6edf3" width="100%" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -111,9 +85,7 @@ Islamic dua and supplication app for daily spiritual practice.
 ## 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArifurRahmanUAP&theme=github-compact&bg_color=0d1117&color=58a6ff&line=388bfd&point=58a6ff&area=true&area_color=388bfd&hide_border=true" alt="Contribution Graph" width="100%"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArifurRahmanUAP&theme=github-compact&bg_color=0d1117&color=58a6ff&line=2563eb&point=58a6ff&area=true&area_color=1a3a6e&hide_border=true&custom_title=Arifur's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -121,17 +93,82 @@ Islamic dua and supplication app for daily spiritual practice.
 ## 🏆 GitHub Trophies
 
 <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ArifurRahmanUAP&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="Trophies"/>
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArifurRahmanUAP&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
+---
+
+## 📱 Published Apps
+
+<div align="center">
+
+| | App | Description | Platform | Link |
+|--|-----|-------------|----------|------|
+| 🕌 | **Daily Islam** | Comprehensive Islamic companion — daily prayers, Quran, duas & prayer times | Android | [![Play Store](https://img.shields.io/badge/Play_Store-0d1117?style=flat-square&logo=google-play&logoColor=3DDC84)](https://play.google.com/store/apps/details?id=com.arif.dislam) |
+| 📖 | **Munajat E Maqbool** | Islamic dua & supplication companion for daily spiritual practice | Android | [![Play Store](https://img.shields.io/badge/Play_Store-0d1117?style=flat-square&logo=google-play&logoColor=3DDC84)](https://play.google.com/store/apps/details?id=com.app.munajat_e_maqbool) |
 
 </div>
 
 ---
 
+## 💼 Experience
+
+```
+🔵  Mobile App Developer          │  Bdjobs.com Ltd.              │  Current
+    Flutter · Android · Kotlin    │  Dhaka, Bangladesh            │
+                                  │                               │
+🟢  Flutter / Android Developer   │  Personal & Freelance         │  Ongoing
+    Published 2 Play Store apps   │  Daily Islam · Munajat        │
+```
+
+---
+
+## 📊 Coding Activity
+
+<!--START_SECTION:waka-->
+> 💡 *Enable WakaTime integration to display live coding hours by language and editor.*
+<!--END_SECTION:waka-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer&fontSize=16&fontColor=8b949e" width="100%"/>
+| Metric | Value |
+|--------|-------|
+| 🌍 Primary Platform | Android + Flutter (Cross-Platform) |
+| 🧑‍💻 Experience Level | Mid-Level |
+| 📦 Apps Shipped | 2 on Google Play Store |
+| 🤝 Work Style | Collaborative · Clean Code · User-First |
+| 🕒 Timezone | Asia/Dhaka (UTC+6) |
 
-*Always open to interesting mobile projects — let's build something useful.*
+</div>
 
+---
+
+## 🤝 Open to Collaborate On
+
+- 📱 Flutter apps with real-world impact
+- 🤖 Android projects using modern Jetpack components
+- 🌐 Cross-platform mobile tools (Ionic / Flutter)
+- 🛠️ Open source mobile libraries or utilities
+- 🌍 Apps serving Muslim or Bangladeshi communities
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logoColor=58a6ff)](https://arifurrahmanuap.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/arifur-rahman-uap/)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/arif.sagar.rahman/)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/arif.rahman.sagar)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:uap.arifur@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/8801931178591)
+
+</div>
+
+---
+
+<!-- Footer Banner -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,60:1a3a6e,100:080c12&height=110&section=footer&fontSize=14&fontColor=484f58&text=//+always+open+to+interesting+mobile+projects&animation=fadeIn" width="100%"/>
 </div>
