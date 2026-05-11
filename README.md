@@ -1,7 +1,3 @@
----
-
-## 📊 Detailed Contribution Metrics
-
 <div align="center">
 
 ### 🔥 Current Streak Status
@@ -126,14 +122,3 @@
 | 🔀 Total Forks | ![Forks](https://img.shields.io/badge/Forks-Available-FFA500?style=flat-square) |
 
 </div>
-
----
-
-## 🎯 What I'm Currently Working On
-
-```text
-🚀 Building cross-platform mobile apps with Flutter
-📱 Maintaining Android apps at Bdjobs.com Ltd.
-☕ Learning advanced Spring Boot for backend APIs
-🎨 Exploring new UI/UX design patterns
-🔥 Improving app performance and optimization
