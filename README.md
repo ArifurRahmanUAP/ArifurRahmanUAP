@@ -6,7 +6,26 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=3000&pause=700&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=120&lines=Hi%2C+I'm+Md.+Arifur+Rahman+%F0%9F%91%8B;Mobile+App+Developer+at+Bdjobs.com+Ltd.;Android+%7C+Flutter+%7C+Ionic+%7C+Spring+Boot;Building+modern%2C+clean+and+scalable+mobile+apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=3000&pause=700&color=00E5FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Md.+Arifur+Rahman+%F0%9F%91%8B;Mobile+App+Developer+at+Bdjobs.com+Ltd.;Android+%7C+Flutter+%7C+Ionic+%7C+Spring+Boot;Building+modern%2C+clean+and+scalable+mobile+apps" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://arifurrahmanuap.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+<a href="https://github.com/ArifurRahmanUAP">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/arifur-rahman-uap/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/arif.sagar.rahman/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
 </div>
 
@@ -20,24 +39,41 @@
 
 </div>
 
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArifurRahmanUAP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ArifurRahmanUAP&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=FF6B00&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=00E5FF" />
+
+</div>
+
 <br/>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://arifurrahmanuap.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArifurRahmanUAP)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifur-rahman-uap/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arif.sagar.rahman/)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifurRahmanUAP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArifurRahmanUAP&theme=tokyonight&utcOffset=6" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArifurRahmanUAP&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=Md.%20Arifur%20Rahman's%20Contribution%20Graph" />
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:001F3F,100:00E5FF&height=2&section=header" />
+# 👨‍💻 About Me
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
-
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212284100-3f0d2f97-7c59-4f27-9a7c-8e91fdbfa1b6.gif" />
+<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/212284100-3f0d2f97-7c59-4f27-9a7c-8e91fdbfa1b6.gif" />
 
 I am **Md. Arifur Rahman**, a passionate **Mobile App Developer** from **Dhaka, Bangladesh**.
 
@@ -82,7 +118,7 @@ focus:
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b8fd-4c8c96f79c20.gif" width="35"> Current Position
+# 💼 Current Position
 
 <div align="center">
 
@@ -109,7 +145,7 @@ focus:
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216655827-d7f925d2-d115-4bb8-a7f5-c2410efea0d1.gif" width="35"> Tech Stack
+# 🚀 Tech Stack
 
 <div align="center">
 
@@ -142,7 +178,7 @@ focus:
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216655810-e2b3186f-b0eb-4b06-a2d1-ff625c2f5268.gif" width="35"> Published Apps on Google Play
+# 📱 Published Apps on Google Play
 
 <div align="center">
 
@@ -150,7 +186,7 @@ focus:
 <tr>
 <td width="50%" align="center">
 
-<img width="80" src="https://img.icons8.com/fluency/96/google-play.png" />
+<img width="70" src="https://img.icons8.com/fluency/96/google-play.png" />
 
 ### Daily Islam
 
@@ -164,7 +200,7 @@ A published Android application available on Google Play.
 
 <td width="50%" align="center">
 
-<img width="80" src="https://img.icons8.com/fluency/96/google-play.png" />
+<img width="70" src="https://img.icons8.com/fluency/96/google-play.png" />
 
 ### Munajat E Maqbool
 
@@ -182,11 +218,11 @@ A published Android application available on Google Play.
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216655832-d7b5ef85-c45b-4c7b-9d1f-7a4d67f01de3.gif" width="35"> Portfolio
+# 🌐 Portfolio
 
 <div align="center">
 
-<img width="75%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:004E92,100:00E5FF&height=100&section=header&text=Explore%20My%20Portfolio&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+<img width="80%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:004E92,100:00E5FF&height=100&section=header&text=Explore%20My%20Portfolio&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 
 <br/>
 
@@ -202,39 +238,7 @@ A published Android application available on Google Play.
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-474a-8c67-1832472051ec.gif" width="35"> GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArifurRahmanUAP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ArifurRahmanUAP&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=FF6B00&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=00E5FF" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifurRahmanUAP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArifurRahmanUAP&theme=tokyonight&utcOffset=6" />
-
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-474a-8c67-1832472051ec.gif" width="35"> Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArifurRahmanUAP&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=Md.%20Arifur%20Rahman's%20Contribution%20Graph" />
-
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216656987-9be8e7cf-c4d2-40d0-b0b3-ef6b12f06c0f.gif" width="35"> GitHub Profile Summary
+# 📈 GitHub Profile Summary
 
 <div align="center">
 
@@ -254,7 +258,7 @@ A published Android application available on Google Play.
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216655840-df67d96f-4ad4-4c10-b32f-5df18cc5a060.gif" width="35"> GitHub Achievements
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -264,7 +268,7 @@ A published Android application available on Google Play.
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b8fd-4c8c96f79c20.gif" width="35"> Contribution Snake Animation
+# 🐍 Contribution Snake Animation
 
 <div align="center">
 
@@ -274,7 +278,7 @@ A published Android application available on Google Play.
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b8fd-4c8c96f79c20.gif" width="35"> What I Work With
+# 🧠 What I Work With
 
 <div align="center">
 
@@ -323,7 +327,7 @@ Backend and API development support.
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3c-0be52c8097ef.gif" width="35"> Professional Focus
+# 🎯 Professional Focus
 
 <div align="center">
 
@@ -351,7 +355,7 @@ Backend and API development support.
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216656986-1f64383f-6e23-4d4c-a09d-f7218037e428.gif" width="35"> Connect With Me
+# 📬 Connect With Me
 
 <div align="center">
 
