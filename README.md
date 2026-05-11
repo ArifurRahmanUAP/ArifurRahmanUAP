@@ -58,7 +58,9 @@
 
 <div align="center">
 
-![3D Contrib](profile-3d-contrib/profile-night-green.svg)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifurRahmanUAP&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArifurRahmanUAP&theme=github_dark" />
 
 </div>
 
@@ -66,9 +68,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifurRahmanUAP&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArifurRahmanUAP&theme=github_dark" />
+![3D Contrib](profile-3d-contrib/profile-night-green.svg)
 
 </div>
 
